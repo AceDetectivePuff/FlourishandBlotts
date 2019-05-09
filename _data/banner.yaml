@@ -1,0 +1,20 @@
+title: The Prefect Bathroom
+subtitle: Hufflepuff's Nautical Dining Experience
+para: |
+  Come seek us where our food is found,
+  <br>We cannot eat above the ground,
+  <br>And while you're searching savor this;
+  <br>We're making what you'll sorely miss,
+  <br>An hour long you'll have to look,
+  <br>And to enjoy what we cook,
+  <br>But past an hour, your prospect's black,
+  <br>Too late, we're gone, we won't come back.
+style: style5
+contentAlign: content-align-center
+imagePos: image-position-center
+onloadImg: onload-image-fade-in
+onloadContent: onload-content-fade-down
+size: fullscreen
+orient: orient-center
+scheme: invert
+actionText: Our Dishes
