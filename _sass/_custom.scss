@@ -63,6 +63,7 @@ img.post-left {
 	float: left;
 	max-width: 33%;
 	padding-right: 15px;
+	text-align: left;
 }
 
 img.post-right {
@@ -70,6 +71,7 @@ img.post-right {
 	max-width: 33%;
 	padding-left: 15px;
 	order: 2;
+	text-align: right;
 }
 
 .post-container {
@@ -82,5 +84,6 @@ img.post-right {
 }
 
 .wide {
-	width: 66%
+	width: 66%;
+	text-align: center;
 }
